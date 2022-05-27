@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="AppTheme" parent="@android:style/Theme.Material.Light"> <item name="android:statusBarColor">#0c0c46</item> <!--Tgis colour can be changed to any hex colour-->
-	</style>
-</resources>
