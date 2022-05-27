@@ -6,8 +6,12 @@ I have also given some tips below regarding how you can make your own WebView An
 ## What is Android WebView app anyways?
 Essentially Android WebView is something that helps Android apps to display content from the web directly inside an Android application. It allows the app to interact with webpages. The app gets sort of an embedded browser.
 
-## How to make a simple Android WebView app?
-- **Step 1:** Download [Android Studio](https://developer.android.com/studio) (for Windows, Mac, Linux and ChromeOS) or [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui&hl=en_IN&gl=US) (for Android). Open a new project with all suitable details.
+## How to make a simple Android WebView app on Windows / Mac / Linux / ChromeOS?
+- **Step 1:** Download [Android Studio](https://developer.android.com/studio) and open a new project with all suitable details.
+- **Step 2:** Locate `MainActivity.java` in the `src` file
+
+## How to make a simple Android WebView app on Android?
+- **Step 1:** Download [AIDE](https://play.google.com/store/apps/details?id=com.aide.ui&hl=en_IN&gl=US) and open a new project with all suitable details.
 - **Step 2:** 
 
 ## Some Rules
