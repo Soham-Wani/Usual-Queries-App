@@ -44,7 +44,7 @@ public class MainActivity extends Activity {
         public void onCreate(Bundle savedInstanceState) {
             super.onCreate(savedInstanceState);
             setContentView(R.layout.splashscreen); // Contents to be changed in layout file
-            int secondsDelayed = 3; // Time dor which the splashscreen will be displayed. Can be changed 
+            int secondsDelayed = 3; // Time for which the splashscreen will be displayed. Can be changed 
             new Handler().postDelayed(new Runnable() {
                 public void run() {
                     startActivity(new Intent(Splash.this, MainActivity.class));
