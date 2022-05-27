@@ -48,10 +48,10 @@ public class MainActivity extends AppCompatActivity {
             int secondsDelayed = 3; // Set splashscreen timeout here
             new Handler().postDelayed(new Runnable() {
                  public void run() {
-					            startActivity(new Intent(Splash.this, MainActivity.class));
-			            		finish();
+		     startActivity(new Intent(Splash.this, MainActivity.class));
+                     finish();
                  }
-			       }, secondsDelayed * 1000);
+             }, secondsDelayed * 1000);
          }
     }
 }
