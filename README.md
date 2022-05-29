@@ -11,7 +11,7 @@ Follow the instructions given [here](https://www.tutorialspoint.com/how-to-creat
 
 ## How to make a simple Android WebView app on Android?
 I had made this app using [AIDE app](https://www.google.com/url?sa=t&source=web&rct=j&url=https://play.google.com/store/apps/details%3Fid%3Dcom.aide.ui%26hl%3Den_IN%26gl%3DUS%26referrer%3Dutm_source%253Dgoogle%2526utm_medium%253Dorganic%2526utm_term%253Daide%26pcampaignid%3DAPPU_1_0mOTYvrwEM-joASM9rK4Ag&ved=2ahUKEwj6oZ3v14T4AhXPEYgKHQy7DCcQ5YQBegQIBxAC&usg=AOvVaw2ZBACYwBrmi5XRS5NaEXLq). I am not sure where you will found tutorials for that because even I scraped the internet for that and don't exactly remember now. But here are a few generic steps I can say:
-- After downloading the app, create a new project for new Android app and select the option that reads `Gradle/Android SDK/Java/Xnl` or something similar.
+- After downloading the app, create a new project for new Android app and select the option that reads `Gradle/Android SDK/Java/Xml` or something similar.
 - Fill in all suitable details. Check out the files I have and create and modify files accordingly.
 - Google any specific queries and you will surely find answers.
 
